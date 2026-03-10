@@ -9,7 +9,7 @@ Compilador GCC instalado en una distribución de Linux.
 ## Pasos para su ejecución:
 
 1. Abrir la terminal en la carpeta del proyecto
-2. Compilar el código, con el siguiente comando: gcc conversor.c -o conversor
+2. Compilar el código, con el siguiente comando: gcc conversor.c -o conversor (opcional)
 3. Ejecutar el programa, con el siguiente comando: ./conversor
 
 ## Datos del autor
